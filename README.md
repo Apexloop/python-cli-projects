@@ -44,3 +44,14 @@ An interactive library tracking system for books and checkout states[cite: 1].
    ```bash
    git clone [https://github.com/Apexloop/vehicle-rental-system.git](https://github.com/Apexloop/vehicle-rental-system.git)
    cd vehicle-rental-system
+
+   # Run the Vehicle Rental System
+python rental.py
+
+# Run the Digital Library System
+python library.py
+
+👤 Author
+Muhammad Huzaifa
+
+GitHub: @Apexloop
